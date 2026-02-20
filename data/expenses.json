@@ -1,37 +1,30 @@
 [
   {
-    "id": 1771527341831,
+    "id": 1771569260633,
+    "paidBy": "Abhishek",
+    "amount": 600,
+    "description": "dinner",
+    "createdAt": "2026-02-20T06:34:20.633Z"
+  },
+  {
+    "id": 1771569287068,
     "paidBy": "Shubham",
-    "amount": 300,
-    "description": "Dinner",
-    "createdAt": "2026-02-19T18:55:41.831Z"
+    "amount": 900,
+    "description": "dinner",
+    "createdAt": "2026-02-20T06:34:47.068Z"
   },
   {
-    "id": 1771527919114,
-    "paidBy": "Manish",
-    "amount": 150,
-    "description": "breakfast",
-    "createdAt": "2026-02-19T19:05:19.114Z"
+    "id": 1771570159443,
+    "paidBy": "Abhishek",
+    "amount": 100,
+    "description": "food",
+    "createdAt": "2026-02-20T06:49:19.443Z"
   },
   {
-    "id": 1771531529498,
+    "id": 1771570238439,
     "paidBy": "Shubham",
     "amount": 500,
-    "description": "dinner",
-    "createdAt": "2026-02-19T20:05:29.498Z"
-  },
-  {
-    "id": 1771531741264,
-    "paidBy": "aditya",
-    "amount": 400,
-    "description": "dinner",
-    "createdAt": "2026-02-19T20:09:01.264Z"
-  },
-  {
-    "id": 1771531916325,
-    "paidBy": "saurav",
-    "amount": 200,
-    "description": "hair cutting",
-    "createdAt": "2026-02-19T20:11:56.325Z"
+    "description": "food",
+    "createdAt": "2026-02-20T06:50:38.439Z"
   }
 ]
